@@ -36,6 +36,8 @@ Designed for automated monitoring of US Federal Reserve rate expectations, with 
 
 *Illustrative example only. Actual meeting dates, rate ranges, and probabilities depend on the latest available source data.*
 
+![Example FEDWatch Telegram message](https://github.com/brysonthy/CME-FedWatch/blob/main/FEDWatch-Telegram-Message.png?raw=true)
+
 ## ⚙️ How It Works
 
 1. The Worker requests the CME Group FOMC countdown page.
