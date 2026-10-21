@@ -164,7 +164,3 @@ The Worker returns an error response when it cannot retrieve or parse the requir
 This project is for informational and educational purposes only. FedWatch probabilities are market-implied estimates, not confirmed Federal Reserve decisions or guarantees of future interest rates.
 
 This project is not affiliated with or endorsed by CME Group, the Federal Reserve, or Telegram.
-
-## 📜 License
-
-Choose and add an appropriate open-source license before distributing this project. If no license is provided, standard copyright restrictions generally apply.
